@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<calovride:CalOvrideFile xmlns:calovride="http://caltools.gm.com/calovride">
+  <OverrideValue>
+    <CalID>_NHD9kBVhEeaENsovshIOVg</CalID>
+    <Version>1</Version>
+    <Boolean>
+      <Value>false</Value>
+    </Boolean>
+  </OverrideValue>
+</calovride:CalOvrideFile>

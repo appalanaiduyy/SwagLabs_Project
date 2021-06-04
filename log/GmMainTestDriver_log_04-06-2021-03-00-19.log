@@ -1,0 +1,123 @@
+2021-06-04 15:00:19 INFO  TestDriver:183 - CSMAppsAutomation Frame work version 0.0.1
+2021-06-04 15:00:19 INFO  TestDriver:135 - Properties loaded. Starting testing
+2021-06-04 15:00:19 INFO  TestDriver:185 - Intialize Suite xlsx
+2021-06-04 15:00:34 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_001
+2021-06-04 15:00:34 INFO  TestDriver:405 - Executing the test case -> SwagLabs_001
+2021-06-04 15:00:34 INFO  TestDriver:534 - openApp
+2021-06-04 15:00:34 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:34 INFO  TestDriver:540 - /*****Keyword:openApp(Open Swag Labs App)*****
+2021-06-04 15:00:34 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 15:00:34 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:36 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:36 INFO  TestDriver:534 - wait
+2021-06-04 15:00:36 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:36 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 15:00:36 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 15:00:36 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:40 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:40 INFO  TestDriver:534 - waitForElement
+2021-06-04 15:00:40 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:40 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Username field availability)*****
+2021-06-04 15:00:40 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 15:00:40 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:40 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:40 INFO  TestDriver:534 - clickElement
+2021-06-04 15:00:40 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:40 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Username field)*****
+2021-06-04 15:00:40 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 15:00:40 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:40 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 15:00:40 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:40 INFO  TestDriver:534 - inputData
+2021-06-04 15:00:40 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:40 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the UserName in Username field)*****
+2021-06-04 15:00:40 INFO  TestDriver:542 - /***** DATA :standard_user Value::(standard_user)*****
+2021-06-04 15:00:40 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:43 INFO  TestDriver:566 - Fail
+2021-06-04 15:00:43 INFO  TestDriver:534 - waitForElement
+2021-06-04 15:00:43 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:43 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Password field availability)*****
+2021-06-04 15:00:43 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 15:00:43 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:44 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:44 INFO  TestDriver:534 - clickElement
+2021-06-04 15:00:44 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:44 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Password field)*****
+2021-06-04 15:00:44 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 15:00:44 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:44 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 15:00:44 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:44 INFO  TestDriver:534 - inputData
+2021-06-04 15:00:44 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:44 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the Password in Password field)*****
+2021-06-04 15:00:44 INFO  TestDriver:542 - /***** DATA :secret_sauce Value::(secret_sauce)*****
+2021-06-04 15:00:44 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:45 INFO  TestDriver:566 - Fail
+2021-06-04 15:00:46 INFO  TestDriver:534 - waitForElement
+2021-06-04 15:00:46 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:46 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify LOGIN button availability)*****
+2021-06-04 15:00:46 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 15:00:46 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:47 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:47 INFO  TestDriver:534 - clickElement
+2021-06-04 15:00:47 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:47 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on LOGIN button)*****
+2021-06-04 15:00:47 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 15:00:47 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:47 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 15:00:47 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:47 INFO  TestDriver:534 - closeApp
+2021-06-04 15:00:47 INFO  TestDriver:539 - /******************************************
+2021-06-04 15:00:47 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the App)*****
+2021-06-04 15:00:47 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 15:00:47 INFO  TestDriver:544 - /******************************************
+2021-06-04 15:00:47 INFO  TestDriver:566 - Pass
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_002
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_002
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_002 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_003
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_003
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_003 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_004
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_004
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_004 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_005
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_005
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_005 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_006
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_006
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_006 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_007
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_007
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_007 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_008
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_008
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_008 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_009
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_009
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_009 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_010
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_010
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_010 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_011
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test SwagLabs_011
+2021-06-04 15:00:47 INFO  TestDriver:470 - ***********************************SwagLabs_011 --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : 
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test 
+2021-06-04 15:00:47 INFO  TestDriver:470 - *********************************** --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : 
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test 
+2021-06-04 15:00:47 INFO  TestDriver:470 - *********************************** --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : 
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test 
+2021-06-04 15:00:47 INFO  TestDriver:470 - *********************************** --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : 
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test 
+2021-06-04 15:00:47 INFO  TestDriver:470 - *********************************** --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : 
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test 
+2021-06-04 15:00:47 INFO  TestDriver:470 - *********************************** --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : 
+2021-06-04 15:00:47 INFO  TestDriver:461 - Skipping the test 
+2021-06-04 15:00:47 INFO  TestDriver:470 - *********************************** --- Skip
+2021-06-04 15:00:47 INFO  TestDriver:1011 - Appium Server Stopped

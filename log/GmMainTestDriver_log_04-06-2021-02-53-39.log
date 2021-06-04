@@ -1,0 +1,87 @@
+2021-06-04 14:53:39 INFO  TestDriver:183 - CSMAppsAutomation Frame work version 0.0.1
+2021-06-04 14:53:39 INFO  TestDriver:135 - Properties loaded. Starting testing
+2021-06-04 14:53:39 INFO  TestDriver:185 - Intialize Suite xlsx
+2021-06-04 14:54:08 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : Connections_028
+2021-06-04 14:54:08 INFO  TestDriver:461 - Skipping the test Connections_028
+2021-06-04 14:54:08 INFO  TestDriver:470 - ***********************************Connections_028 --- Skip
+2021-06-04 14:54:08 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : Connections_041
+2021-06-04 14:54:08 INFO  TestDriver:461 - Skipping the test Connections_041
+2021-06-04 14:54:08 INFO  TestDriver:470 - ***********************************Connections_041 --- Skip
+2021-06-04 14:54:08 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : Connections_045
+2021-06-04 14:54:08 INFO  TestDriver:461 - Skipping the test Connections_045
+2021-06-04 14:54:08 INFO  TestDriver:470 - ***********************************Connections_045 --- Skip
+2021-06-04 14:54:08 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : Connections_052
+2021-06-04 14:54:08 INFO  TestDriver:461 - Skipping the test Connections_052
+2021-06-04 14:54:08 INFO  TestDriver:470 - ***********************************Connections_052 --- Skip
+2021-06-04 14:54:08 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : Connections_064
+2021-06-04 14:54:08 INFO  TestDriver:461 - Skipping the test Connections_064
+2021-06-04 14:54:08 INFO  TestDriver:470 - ***********************************Connections_064 --- Skip
+2021-06-04 14:54:08 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : Connections_122
+2021-06-04 14:54:08 INFO  TestDriver:405 - Executing the test case -> Connections_122
+2021-06-04 14:54:08 INFO  TestDriver:534 - openConnectionsScreens
+2021-06-04 14:54:08 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:54:08 INFO  TestDriver:540 - /*****Keyword:openConnectionsScreens(Open Phones Screen from AOSP Settings Application)*****
+2021-06-04 14:54:08 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:54:08 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:55:34 ERROR TestDriver:194 - AndroidDriver couldn’t locate the element, Name of current method: clickElement
+2021-06-04 14:56:29 INFO  TestDriver:566 - Pass
+2021-06-04 14:56:29 INFO  TestDriver:534 - sendCanMsg
+2021-06-04 14:56:29 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:56:29 INFO  TestDriver:540 - /*****Keyword:sendCanMsg(Do Soft Ignition)*****
+2021-06-04 14:56:29 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:56:29 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:56:32 INFO  TestDriver:764 - CAN message Sent  
+2021-06-04 14:56:32 INFO  TestDriver:566 - Pass
+2021-06-04 14:56:32 INFO  TestDriver:534 - wait
+2021-06-04 14:56:32 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:56:32 INFO  TestDriver:540 - /*****Keyword:wait(wait)*****
+2021-06-04 14:56:32 INFO  TestDriver:542 - /***** DATA :25000 Value::(25000)*****
+2021-06-04 14:56:32 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:56:57 INFO  TestDriver:566 - Pass
+2021-06-04 14:56:57 INFO  TestDriver:534 - waitForElement
+2021-06-04 14:56:57 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:56:57 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify title of the screen)*****
+2021-06-04 14:56:57 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:56:57 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:56:57 INFO  TestDriver:566 - Fail
+2021-06-04 14:56:57 INFO  TestDriver:534 - closeRequiredApplication
+2021-06-04 14:56:57 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:56:57 INFO  TestDriver:540 - /*****Keyword:closeRequiredApplication(Close the Connections Application.)*****
+2021-06-04 14:56:57 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:56:57 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:56:57 INFO  TestDriver:1763 - Adb connection got restart!!...
+2021-06-04 14:57:02 INFO  TestDriver:566 - Fail
+2021-06-04 14:57:02 INFO  TestDriver:534 - closeApp
+2021-06-04 14:57:02 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:57:02 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the Settings App)*****
+2021-06-04 14:57:02 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:57:02 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:57:02 INFO  TestDriver:347 - Adb connection got restart!!...
+2021-06-04 14:57:07 INFO  TestDriver:566 - Fail
+2021-06-04 14:57:07 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : Connections_128
+2021-06-04 14:57:07 INFO  TestDriver:405 - Executing the test case -> Connections_128
+2021-06-04 14:57:07 INFO  TestDriver:534 - openConnectionsScreens
+2021-06-04 14:57:07 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:57:07 INFO  TestDriver:540 - /*****Keyword:openConnectionsScreens(Open Wifi Networks Screen from AOSP Settings Application)*****
+2021-06-04 14:57:07 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:57:07 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:57:17 INFO  TestDriver:566 - Pass
+2021-06-04 14:57:17 INFO  TestDriver:534 - waitForElement
+2021-06-04 14:57:17 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:57:17 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the available networks under Wifi networks screen.)*****
+2021-06-04 14:57:17 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:57:17 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:57:17 INFO  TestDriver:566 - Fail
+2021-06-04 14:57:17 INFO  TestDriver:534 - closeRequiredApplication
+2021-06-04 14:57:17 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:57:17 INFO  TestDriver:540 - /*****Keyword:closeRequiredApplication(Close the App)*****
+2021-06-04 14:57:17 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:57:17 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:57:17 INFO  TestDriver:1763 - Adb connection got restart!!...
+2021-06-04 14:57:22 INFO  TestDriver:566 - Fail
+2021-06-04 14:57:22 INFO  TestDriver:534 - closeApp
+2021-06-04 14:57:22 INFO  TestDriver:539 - /******************************************
+2021-06-04 14:57:22 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the App)*****
+2021-06-04 14:57:22 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 14:57:22 INFO  TestDriver:544 - /******************************************
+2021-06-04 14:57:22 INFO  TestDriver:347 - Adb connection got restart!!...

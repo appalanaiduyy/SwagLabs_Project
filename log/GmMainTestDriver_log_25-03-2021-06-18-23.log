@@ -1,0 +1,42 @@
+2021-03-25 18:18:23 INFO  TestDriver:183 - CSMAppsAutomation Frame work version 0.0.1
+2021-03-25 18:18:23 INFO  TestDriver:135 - Properties loaded. Starting testing
+2021-03-25 18:18:23 INFO  TestDriver:185 - Intialize Suite xlsx
+2021-03-25 18:18:42 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_293
+2021-03-25 18:18:43 INFO  TestDriver:401 - Executing the test case -> Connections_293
+2021-03-25 18:18:43 INFO  TestDriver:530 - openConnectionsScreens
+2021-03-25 18:18:43 INFO  TestDriver:535 - /******************************************
+2021-03-25 18:18:43 INFO  TestDriver:536 - /*****Keyword:openConnectionsScreens(Open Wifi Hotspot Screen from AOSP Settings Application)*****
+2021-03-25 18:18:43 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-25 18:18:43 INFO  TestDriver:540 - /******************************************
+2021-03-25 18:18:53 INFO  TestDriver:186 - Test Step  passed
+2021-03-25 18:18:56 INFO  TestDriver:186 - Test Step  passed
+2021-03-25 18:19:01 INFO  TestDriver:562 - Pass
+2021-03-25 18:19:01 INFO  TestDriver:530 - waitForElement
+2021-03-25 18:19:01 INFO  TestDriver:535 - /******************************************
+2021-03-25 18:19:01 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify "Wifi Name" in "Wifi-hotspot" screen)*****
+2021-03-25 18:19:01 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-25 18:19:01 INFO  TestDriver:540 - /******************************************
+2021-03-25 18:19:01 INFO  TestDriver:562 - Pass
+2021-03-25 18:19:01 INFO  TestDriver:530 - verifyTitleText
+2021-03-25 18:19:01 INFO  TestDriver:535 - /******************************************
+2021-03-25 18:19:01 INFO  TestDriver:536 - /*****Keyword:verifyTitleText(Verify the wifi name.)*****
+2021-03-25 18:19:01 INFO  TestDriver:538 - /***** DATA :defaultwifiname Value::(defaultwifiname)*****
+2021-03-25 18:19:01 INFO  TestDriver:540 - /******************************************
+2021-03-25 18:19:03 INFO  TestDriver:435 - myGMC123
+2021-03-25 18:19:03 INFO  TestDriver:349 - myGMC123 is not matching with myChevrolet 7368
+2021-03-25 18:19:03 INFO  TestDriver:562 - Fail
+2021-03-25 18:19:05 INFO  TestDriver:530 - isElementExist
+2021-03-25 18:19:05 INFO  TestDriver:535 - /******************************************
+2021-03-25 18:19:05 INFO  TestDriver:536 - /*****Keyword:isElementExist(Verify the "Wi-Fi Password" option availability in wifi hotspot screen.)*****
+2021-03-25 18:19:05 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-25 18:19:05 INFO  TestDriver:540 - /******************************************
+2021-03-25 18:19:06 INFO  TestDriver:218 - Test passed
+2021-03-25 18:19:06 INFO  TestDriver:562 - Pass
+2021-03-25 18:19:06 INFO  TestDriver:530 - verifyTitleText
+2021-03-25 18:19:06 INFO  TestDriver:535 - /******************************************
+2021-03-25 18:19:06 INFO  TestDriver:536 - /*****Keyword:verifyTitleText(Verify the wifi Password.)*****
+2021-03-25 18:19:06 INFO  TestDriver:538 - /***** DATA :defaultwifipassword Value::(defaultwifipassword)*****
+2021-03-25 18:19:06 INFO  TestDriver:540 - /******************************************
+2021-03-25 18:19:08 INFO  TestDriver:435 - 123456789
+2021-03-25 18:19:08 INFO  TestDriver:349 - 123456789 is not matching with d67rdXvXXbTJ65c6
+2021-03-25 18:19:08 INFO  TestDriver:562 - Fail

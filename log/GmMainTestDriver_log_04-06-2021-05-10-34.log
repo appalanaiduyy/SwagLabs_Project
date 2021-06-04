@@ -1,0 +1,5 @@
+2021-06-04 17:10:34 INFO  TestDriver:173 - CSMAppsAutomation Frame work version 0.0.1
+2021-06-04 17:10:34 INFO  TestDriver:125 - Properties loaded. Starting testing
+2021-06-04 17:10:34 INFO  TestDriver:175 - Intialize Suite xlsx
+2021-06-04 17:10:44 INFO  TestDriver:243 - THE CURRENT TESTCASE NAME IS : SwagLabs_001
+2021-06-04 17:10:44 INFO  TestDriver:257 - Executing the test case -> SwagLabs_001

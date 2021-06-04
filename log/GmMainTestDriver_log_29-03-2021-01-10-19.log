@@ -1,0 +1,522 @@
+2021-03-29 13:10:20 INFO  TestDriver:183 - CSMAppsAutomation Frame work version 0.0.1
+2021-03-29 13:10:20 INFO  TestDriver:135 - Properties loaded. Starting testing
+2021-03-29 13:10:20 INFO  TestDriver:185 - Intialize Suite xlsx
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_293
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_293
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_293 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_010
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_010
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_010 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_011
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_011
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_011 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_012
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_012
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_012 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_013
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_013
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_013 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_018
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_018
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_018 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_020
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_020
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_020 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_021
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_021
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_021 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_022
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_022
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_022 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_023
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_023
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_023 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_024
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_024
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_024 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_025
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_025
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_025 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_027
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_027
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_027 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_028
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_028
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_028 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_031
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_031
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_031 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_033
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_033
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_033 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_034
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_034
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_034 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_035
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_035
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_035 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_036
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_036
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_036 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_037
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_037
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_037 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_038
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_038
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_038 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_039
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_039
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_039 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_040
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_040
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_040 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_041
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_041
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_041 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_042
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_042
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_042 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_043
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_043
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_043 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_044
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_044
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_044 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_045
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_045
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_045 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_046
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_046
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_046 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_047
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_047
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_047 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_048
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_048
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_048 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_049
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_049
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_049 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_050
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_050
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_050 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_051
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_051
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_051 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_052
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_052
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_052 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_053
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_053
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_053 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_054
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_054
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_054 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_055
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_055
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_055 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_056
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_056
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_056 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_057
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_057
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_057 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_058
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_058
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_058 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_059
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_059
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_059 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_060
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_060
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_060 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_062
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_062
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_062 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_063
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_063
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_063 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_064
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_064
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_064 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_069
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_069
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_069 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_070
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_070
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_070 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_071
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_071
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_071 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_072
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_072
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_072 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_073
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_073
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_073 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_075
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_075
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_075 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_084
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_084
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_084 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_086
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_086
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_086 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_099
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_099
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_099 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_101
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_101
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_101 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_103
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_103
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_103 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_104
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_104
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_104 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_106
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_106
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_106 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_110
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_110
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_110 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_117
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_117
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_117 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_122
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_122
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_122 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_127
+2021-03-29 13:10:34 INFO  TestDriver:457 - Skipping the test Connections_127
+2021-03-29 13:10:34 INFO  TestDriver:466 - ***********************************Connections_127 --- Skip
+2021-03-29 13:10:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_128
+2021-03-29 13:10:34 INFO  TestDriver:401 - Executing the test case -> Connections_128
+2021-03-29 13:10:34 INFO  TestDriver:530 - openConnectionsScreens
+2021-03-29 13:10:34 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:10:34 INFO  TestDriver:536 - /*****Keyword:openConnectionsScreens(Open Wifi Networks Screen from AOSP Settings Application)*****
+2021-03-29 13:10:34 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:10:34 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:10:43 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:10:46 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:10:51 INFO  TestDriver:562 - Pass
+2021-03-29 13:10:51 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:10:51 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:10:51 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the available networks under Wifi networks screen.)*****
+2021-03-29 13:10:51 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:10:51 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:10:51 INFO  TestDriver:562 - Pass
+2021-03-29 13:10:51 INFO  TestDriver:530 - closeRequiredApplication
+2021-03-29 13:10:51 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:10:51 INFO  TestDriver:536 - /*****Keyword:closeRequiredApplication(Close the App)*****
+2021-03-29 13:10:51 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:10:51 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:10:52 INFO  TestDriver:562 - Pass
+2021-03-29 13:10:52 INFO  TestDriver:530 - closeApp
+2021-03-29 13:10:52 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:10:52 INFO  TestDriver:536 - /*****Keyword:closeApp(Close the App)*****
+2021-03-29 13:10:52 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:10:52 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:10:52 INFO  TestDriver:562 - Pass
+2021-03-29 13:10:52 INFO  TestDriver:446 - currentTestCaseName test Results update in TestRail Connections_128
+2021-03-29 13:10:52 INFO  TestDriver:54 -  Current working BUILD : W107E-X158.3.2-QIH23B-294 107
+2021-03-29 13:10:58 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_129
+2021-03-29 13:10:58 INFO  TestDriver:401 - Executing the test case -> Connections_129
+2021-03-29 13:10:58 INFO  TestDriver:530 - openConnectionsScreens
+2021-03-29 13:10:58 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:10:58 INFO  TestDriver:536 - /*****Keyword:openConnectionsScreens(Open Wifi Networks Screen from AOSP Settings Application)*****
+2021-03-29 13:10:58 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:10:58 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:07 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:11:10 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:11:14 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:14 INFO  TestDriver:530 - wait
+2021-03-29 13:11:14 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:14 INFO  TestDriver:536 - /*****Keyword:wait(wait for sometimes)*****
+2021-03-29 13:11:14 INFO  TestDriver:538 - /***** DATA :4000 Value::(4000)*****
+2021-03-29 13:11:14 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:18 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:18 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:11:18 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:18 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the "Back" button availability in wifi networks home screen.)*****
+2021-03-29 13:11:18 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:18 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:19 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:19 INFO  TestDriver:530 - clickElement
+2021-03-29 13:11:19 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:19 INFO  TestDriver:536 - /*****Keyword:clickElement(Click on "Back" button in wifi networks home screen.)*****
+2021-03-29 13:11:19 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:19 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:19 INFO  TestDriver:191 - Test  Step passed
+2021-03-29 13:11:19 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:19 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:11:19 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:19 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the title as Connections .)*****
+2021-03-29 13:11:19 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:19 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:20 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:20 INFO  TestDriver:530 - closeRequiredApplication
+2021-03-29 13:11:20 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:20 INFO  TestDriver:536 - /*****Keyword:closeRequiredApplication(Close the App)*****
+2021-03-29 13:11:20 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:20 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:21 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:21 INFO  TestDriver:530 - closeApp
+2021-03-29 13:11:21 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:21 INFO  TestDriver:536 - /*****Keyword:closeApp(Close the App)*****
+2021-03-29 13:11:21 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:21 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:21 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:21 INFO  TestDriver:446 - currentTestCaseName test Results update in TestRail Connections_129
+2021-03-29 13:11:21 INFO  TestDriver:54 -  Current working BUILD : W107E-X158.3.2-QIH23B-294 107
+2021-03-29 13:11:27 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_130
+2021-03-29 13:11:27 INFO  TestDriver:401 - Executing the test case -> Connections_130
+2021-03-29 13:11:27 INFO  TestDriver:530 - openConnectionsScreens
+2021-03-29 13:11:27 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:27 INFO  TestDriver:536 - /*****Keyword:openConnectionsScreens(Open Wifi Networks Screen from AOSP Settings Application)*****
+2021-03-29 13:11:27 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:27 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:35 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:11:38 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:11:42 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:42 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:11:42 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:42 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the "Add Other Network" button in wifi networks available screen.)*****
+2021-03-29 13:11:42 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:42 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:43 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:43 INFO  TestDriver:530 - clickElement
+2021-03-29 13:11:43 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:43 INFO  TestDriver:536 - /*****Keyword:clickElement(Click on "Add Other Network" button.)*****
+2021-03-29 13:11:43 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:43 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:43 INFO  TestDriver:191 - Test  Step passed
+2021-03-29 13:11:43 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:43 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:11:43 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:43 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the "Only WPA/WPA2 secured Wi-Fi Networks can be added" pop-up in screen.)*****
+2021-03-29 13:11:43 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:43 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:44 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:44 INFO  TestDriver:530 - closeRequiredApplication
+2021-03-29 13:11:44 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:44 INFO  TestDriver:536 - /*****Keyword:closeRequiredApplication(Close the App)*****
+2021-03-29 13:11:44 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:44 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:45 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:45 INFO  TestDriver:530 - closeApp
+2021-03-29 13:11:45 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:45 INFO  TestDriver:536 - /*****Keyword:closeApp(Close the App)*****
+2021-03-29 13:11:45 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:45 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:45 INFO  TestDriver:562 - Pass
+2021-03-29 13:11:45 INFO  TestDriver:446 - currentTestCaseName test Results update in TestRail Connections_130
+2021-03-29 13:11:45 INFO  TestDriver:54 -  Current working BUILD : W107E-X158.3.2-QIH23B-294 107
+2021-03-29 13:11:51 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_131
+2021-03-29 13:11:51 INFO  TestDriver:401 - Executing the test case -> Connections_131
+2021-03-29 13:11:51 INFO  TestDriver:530 - openConnectionsScreens
+2021-03-29 13:11:51 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:11:51 INFO  TestDriver:536 - /*****Keyword:openConnectionsScreens(Open Wifi Networks Screen from AOSP Settings Application)*****
+2021-03-29 13:11:51 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:11:51 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:11:59 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:12:02 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:12:07 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:07 INFO  TestDriver:530 - wait
+2021-03-29 13:12:07 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:07 INFO  TestDriver:536 - /*****Keyword:wait(wait for sometimes)*****
+2021-03-29 13:12:07 INFO  TestDriver:538 - /***** DATA :4000 Value::(4000)*****
+2021-03-29 13:12:07 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:11 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:11 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:12:11 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:11 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the "Add Other Network" button in wifi networks available screen.)*****
+2021-03-29 13:12:11 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:11 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:11 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:11 INFO  TestDriver:530 - clickElement
+2021-03-29 13:12:11 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:11 INFO  TestDriver:536 - /*****Keyword:clickElement(Click on "Add Other Network" button.)*****
+2021-03-29 13:12:11 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:11 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:11 INFO  TestDriver:191 - Test  Step passed
+2021-03-29 13:12:11 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:11 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:12:11 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:11 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the title of the screen.)*****
+2021-03-29 13:12:11 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:11 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:13 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:13 INFO  TestDriver:530 - isElementExist
+2021-03-29 13:12:13 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:13 INFO  TestDriver:536 - /*****Keyword:isElementExist(Verify the "Ok" button availability in the pop-up.)*****
+2021-03-29 13:12:13 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:13 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:13 INFO  TestDriver:218 - Test passed
+2021-03-29 13:12:13 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:13 INFO  TestDriver:530 - clickElement
+2021-03-29 13:12:13 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:13 INFO  TestDriver:536 - /*****Keyword:clickElement(Click on the "Ok" button in pop-up.)*****
+2021-03-29 13:12:13 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:13 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:13 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:12:13 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:13 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:12:13 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:13 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the title as Add Other Network - Network Name.)*****
+2021-03-29 13:12:13 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:13 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:14 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:14 INFO  TestDriver:530 - closeRequiredApplication
+2021-03-29 13:12:14 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:14 INFO  TestDriver:536 - /*****Keyword:closeRequiredApplication(Close the Connections Application.)*****
+2021-03-29 13:12:14 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:14 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:15 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:15 INFO  TestDriver:530 - closeApp
+2021-03-29 13:12:15 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:15 INFO  TestDriver:536 - /*****Keyword:closeApp(Close the App)*****
+2021-03-29 13:12:15 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:15 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:16 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:16 INFO  TestDriver:446 - currentTestCaseName test Results update in TestRail Connections_131
+2021-03-29 13:12:16 INFO  TestDriver:54 -  Current working BUILD : W107E-X158.3.2-QIH23B-294 107
+2021-03-29 13:12:21 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_134
+2021-03-29 13:12:21 INFO  TestDriver:401 - Executing the test case -> Connections_134
+2021-03-29 13:12:21 INFO  TestDriver:530 - openConnectionsScreens
+2021-03-29 13:12:21 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:21 INFO  TestDriver:536 - /*****Keyword:openConnectionsScreens(Open Wifi Networks Screen from AOSP Settings Application)*****
+2021-03-29 13:12:21 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:12:21 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:30 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:12:32 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:12:37 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:37 INFO  TestDriver:530 - wait
+2021-03-29 13:12:37 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:37 INFO  TestDriver:536 - /*****Keyword:wait(wait for sometimes)*****
+2021-03-29 13:12:37 INFO  TestDriver:538 - /***** DATA :4000 Value::(4000)*****
+2021-03-29 13:12:37 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:41 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:41 INFO  TestDriver:530 - connectWiFi
+2021-03-29 13:12:41 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:41 INFO  TestDriver:536 - /*****Keyword:connectWiFi(Connect the available network.)*****
+2021-03-29 13:12:41 INFO  TestDriver:538 - /***** DATA :wifiNetworkName,wifiNetworkPassword Value::(wifiNetworkName,wifiNetworkPassword)*****
+2021-03-29 13:12:41 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:12:41 INFO  TestDriver:191 - Test  Step passed
+2021-03-29 13:12:42 INFO  TestDriver:191 - Test  Step passed
+2021-03-29 13:12:51 INFO  TestDriver:562 - Pass
+2021-03-29 13:12:51 INFO  TestDriver:530 - wait
+2021-03-29 13:12:51 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:12:51 INFO  TestDriver:536 - /*****Keyword:wait(wait)*****
+2021-03-29 13:12:51 INFO  TestDriver:538 - /***** DATA :25000 Value::(25000)*****
+2021-03-29 13:12:51 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:13:16 INFO  TestDriver:562 - Pass
+2021-03-29 13:13:16 INFO  TestDriver:530 - verifyConnectedState
+2021-03-29 13:13:16 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:13:16 INFO  TestDriver:536 - /*****Keyword:verifyConnectedState(Verify Connected text and Available Network Card under "Wi-fi Network" Screen.)*****
+2021-03-29 13:13:16 INFO  TestDriver:538 - /***** DATA :wifiNetworkName,Connected Value::(wifiNetworkName,Connected)*****
+2021-03-29 13:13:16 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:13:17 INFO  TestDriver:562 - Pass
+2021-03-29 13:13:17 INFO  TestDriver:530 - forgetNetwork
+2021-03-29 13:13:17 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:13:17 INFO  TestDriver:536 - /*****Keyword:forgetNetwork(verify and forget the network card)*****
+2021-03-29 13:13:17 INFO  TestDriver:538 - /***** DATA :wifiNetworkName,Options,Forget Network Value::(wifiNetworkName,Options,Forget Network)*****
+2021-03-29 13:13:17 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:13:27 INFO  TestDriver:562 - Pass
+2021-03-29 13:13:27 INFO  TestDriver:530 - closeRequiredApplication
+2021-03-29 13:13:27 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:13:27 INFO  TestDriver:536 - /*****Keyword:closeRequiredApplication(Close the App)*****
+2021-03-29 13:13:27 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:13:27 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:13:28 INFO  TestDriver:562 - Pass
+2021-03-29 13:13:28 INFO  TestDriver:530 - closeApp
+2021-03-29 13:13:28 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:13:28 INFO  TestDriver:536 - /*****Keyword:closeApp(Close the Connections Application.)*****
+2021-03-29 13:13:28 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:13:28 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:13:29 INFO  TestDriver:562 - Pass
+2021-03-29 13:13:29 INFO  TestDriver:446 - currentTestCaseName test Results update in TestRail Connections_134
+2021-03-29 13:13:29 INFO  TestDriver:54 -  Current working BUILD : W107E-X158.3.2-QIH23B-294 107
+2021-03-29 13:13:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_135
+2021-03-29 13:13:34 INFO  TestDriver:457 - Skipping the test Connections_135
+2021-03-29 13:13:34 INFO  TestDriver:466 - ***********************************Connections_135 --- Skip
+2021-03-29 13:13:34 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_136
+2021-03-29 13:13:34 INFO  TestDriver:401 - Executing the test case -> Connections_136
+2021-03-29 13:13:34 INFO  TestDriver:530 - openConnectionsScreens
+2021-03-29 13:13:34 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:13:34 INFO  TestDriver:536 - /*****Keyword:openConnectionsScreens(Open Wifi Networks Screen from AOSP Settings Application)*****
+2021-03-29 13:13:34 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:13:34 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:13:42 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:13:45 INFO  TestDriver:186 - Test Step  passed
+2021-03-29 13:13:49 INFO  TestDriver:562 - Pass
+2021-03-29 13:13:49 INFO  TestDriver:530 - wait
+2021-03-29 13:13:49 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:13:49 INFO  TestDriver:536 - /*****Keyword:wait(wait for sometimes)*****
+2021-03-29 13:13:49 INFO  TestDriver:538 - /***** DATA :4000 Value::(4000)*****
+2021-03-29 13:13:49 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:13:53 INFO  TestDriver:562 - Pass
+2021-03-29 13:13:53 INFO  TestDriver:530 - swipingHorizontal
+2021-03-29 13:13:53 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:13:53 INFO  TestDriver:536 - /*****Keyword:swipingHorizontal(Verify  and Click on previously connected network card.)*****
+2021-03-29 13:13:53 INFO  TestDriver:538 - /***** DATA :wifiNetworkName Value::(wifiNetworkName)*****
+2021-03-29 13:13:53 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:13:58 INFO  TestDriver:841 - Required card is not available  in current Screens
+2021-03-29 13:13:58 INFO  TestDriver:562 - Fail
+2021-03-29 13:13:59 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:13:59 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:13:59 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the title of the screen.)*****
+2021-03-29 13:13:59 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:13:59 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:14:39 INFO  TestDriver:562 - Fail
+2021-03-29 13:14:41 INFO  TestDriver:530 - enterInputData
+2021-03-29 13:14:41 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:14:41 INFO  TestDriver:536 - /*****Keyword:enterInputData(Enter the Password)*****
+2021-03-29 13:14:41 INFO  TestDriver:538 - /***** DATA :wifiNetworkPassword Value::(wifiNetworkPassword)*****
+2021-03-29 13:14:41 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:14:41 ERROR TestDriver:385 - AndroidDriver couldn’t locate the element, Name of current method: inputData
+2021-03-29 13:14:41 INFO  TestDriver:562 - Fail
+2021-03-29 13:14:42 INFO  TestDriver:530 - wait
+2021-03-29 13:14:42 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:14:42 INFO  TestDriver:536 - /*****Keyword:wait(wait for some time)*****
+2021-03-29 13:14:42 INFO  TestDriver:538 - /***** DATA :25000 Value::(25000)*****
+2021-03-29 13:14:42 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:15:07 INFO  TestDriver:562 - Pass
+2021-03-29 13:15:07 INFO  TestDriver:530 - verifyConnectedState
+2021-03-29 13:15:07 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:15:07 INFO  TestDriver:536 - /*****Keyword:verifyConnectedState(Verify connected text under card)*****
+2021-03-29 13:15:07 INFO  TestDriver:538 - /***** DATA :wifiNetworkName,Connected Value::(wifiNetworkName,Connected)*****
+2021-03-29 13:15:07 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:15:48 INFO  TestDriver:494 - Connected text is not available 
+2021-03-29 13:15:48 INFO  TestDriver:562 - Fail
+2021-03-29 13:15:49 INFO  TestDriver:530 - disconnectWiFiNetwork
+2021-03-29 13:15:49 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:15:49 INFO  TestDriver:536 - /*****Keyword:disconnectWiFiNetwork(Disconnect the Connected network)*****
+2021-03-29 13:15:49 INFO  TestDriver:538 - /***** DATA :Options,Disconnect Value::(Options,Disconnect)*****
+2021-03-29 13:15:49 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:15:52 INFO  TestDriver:562 - Fail
+2021-03-29 13:15:53 INFO  TestDriver:530 - wait
+2021-03-29 13:15:53 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:15:53 INFO  TestDriver:536 - /*****Keyword:wait(wait for some time)*****
+2021-03-29 13:15:53 INFO  TestDriver:538 - /***** DATA :3000 Value::(3000)*****
+2021-03-29 13:15:53 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:15:57 INFO  TestDriver:562 - Pass
+2021-03-29 13:15:57 INFO  TestDriver:530 - isElementNotExist
+2021-03-29 13:15:57 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:15:57 INFO  TestDriver:536 - /*****Keyword:isElementNotExist(verify disconnected network)*****
+2021-03-29 13:15:57 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:15:57 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:15:57 ERROR TestDriver:265 - AndroidDriver couldn’t locate the element, Name of current method: isElementNotExist
+2021-03-29 13:15:57 INFO  TestDriver:562 - Pass
+2021-03-29 13:15:57 INFO  TestDriver:530 - forgetNetwork
+2021-03-29 13:15:57 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:15:57 INFO  TestDriver:536 - /*****Keyword:forgetNetwork(verify and forget the network card)*****
+2021-03-29 13:15:57 INFO  TestDriver:538 - /***** DATA :wifiNetworkName,Options,Forget Network Value::(wifiNetworkName,Options,Forget Network)*****
+2021-03-29 13:15:57 INFO  TestDriver:540 - /******************************************
+2021-03-29 13:16:03 INFO  TestDriver:662 - WIFI Network card is not found--
+2021-03-29 13:16:03 INFO  TestDriver:562 - Fail
+2021-03-29 13:16:04 INFO  TestDriver:530 - waitForElement
+2021-03-29 13:16:04 INFO  TestDriver:535 - /******************************************
+2021-03-29 13:16:04 INFO  TestDriver:536 - /*****Keyword:waitForElement(Verify the alert pop-up.)*****
+2021-03-29 13:16:04 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-29 13:16:04 INFO  TestDriver:540 - /******************************************

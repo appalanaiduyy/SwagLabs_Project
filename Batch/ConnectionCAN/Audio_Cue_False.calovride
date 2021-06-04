@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?>
+<calovride:CalOvrideFile xmlns:calovride="http://caltools.gm.com/calovride">
+  <OverrideValue>
+    <CalID>_ypM-oE1AEeO3UM5MzM17kw</CalID>
+    <Version>3</Version>
+    <Boolean>
+      <Value>false</Value>
+    </Boolean>
+  </OverrideValue>
+  <OverrideValue>
+    <CalID>_ypM-oU1AEeO3UM5MzM17kw</CalID>
+    <Version>3</Version>
+    <Boolean>
+      <Value>false</Value>
+    </Boolean>
+  </OverrideValue>
+  <OverrideValue>
+    <CalID>_ypNlsE1AEeO3UM5MzM17kw</CalID>
+    <Version>4</Version>
+    <Boolean>
+      <Value>false</Value>
+    </Boolean>
+  </OverrideValue>
+</calovride:CalOvrideFile>

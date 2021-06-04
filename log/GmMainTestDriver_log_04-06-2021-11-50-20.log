@@ -1,0 +1,1273 @@
+2021-06-04 11:50:20 INFO  TestDriver:183 - CSMAppsAutomation Frame work version 0.0.1
+2021-06-04 11:50:20 INFO  TestDriver:135 - Properties loaded. Starting testing
+2021-06-04 11:50:20 INFO  TestDriver:185 - Intialize Suite xlsx
+2021-06-04 11:50:29 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:50:29 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:50:29 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:50:29 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:50:34 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:50:36 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:50:36 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:50:36 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:50:36 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:50:41 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:50:42 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:50:42 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:50:42 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:50:42 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:50:48 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:50:49 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:50:49 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:50:49 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:50:49 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:50:54 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:50:56 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:50:56 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:50:56 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:50:56 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:01 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:02 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:02 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:02 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:02 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:07 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:08 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:08 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:08 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:08 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:13 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:15 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:15 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:15 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:15 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:20 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:21 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:21 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:21 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:21 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:26 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:28 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:28 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:28 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:28 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:33 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:34 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:34 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:34 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:34 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:39 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:41 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:41 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:41 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:41 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:46 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:47 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:47 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:47 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:47 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:52 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:51:54 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:51:54 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:51:54 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:51:54 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:51:59 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:00 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:00 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:00 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:00 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:05 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:07 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:07 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:07 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:07 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:12 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:13 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:13 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:13 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:13 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:18 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:20 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:20 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:20 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:20 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:25 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:26 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:26 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:26 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:26 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:31 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:33 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:33 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:33 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:33 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:38 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:41 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:41 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:41 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:41 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:46 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:47 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:47 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:47 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:47 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:52 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:52:54 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:52:54 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:52:54 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:52:54 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:52:59 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:01 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:01 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:01 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:01 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:06 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:07 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:07 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:07 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:07 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:12 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:14 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:14 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:14 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:14 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:19 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:21 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:21 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:21 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:21 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:26 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:27 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:27 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:27 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:27 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:32 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:34 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:34 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:34 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:34 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:39 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:41 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:41 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:41 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:41 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:46 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:47 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:47 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:47 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:47 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:52 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:53:54 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:53:54 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:53:54 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:53:54 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:53:59 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:00 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:00 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:00 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:00 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:05 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:07 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:07 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:07 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:07 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:12 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:14 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:14 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:14 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:14 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:19 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:21 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:21 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:21 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:21 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:26 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:27 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:27 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:27 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:27 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:32 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:33 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:33 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:33 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:33 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:38 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:40 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:40 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:40 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:40 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:45 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:46 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:46 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:46 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:46 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:51 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:53 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:53 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:53 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:53 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:54:58 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:54:59 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:54:59 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:54:59 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:54:59 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:04 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:06 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:06 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:06 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:06 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:11 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:12 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:12 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:12 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:12 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:17 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:19 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:19 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:19 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:19 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:24 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:26 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:26 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:26 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:26 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:31 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:32 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:32 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:32 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:32 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:37 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:38 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:38 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:38 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:38 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:43 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:45 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:45 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:45 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:45 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:50 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:52 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:52 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:52 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:52 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:55:57 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:55:58 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:55:58 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:55:58 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:55:58 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:03 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:04 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:04 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:04 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:04 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:09 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:11 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:11 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:11 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:11 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:16 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:17 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:17 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:17 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:17 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:22 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:24 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:24 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:24 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:24 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:29 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:30 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:30 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:30 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:30 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:35 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:37 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:37 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:37 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:37 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:42 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:44 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:44 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:44 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:44 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:49 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:50 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:50 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:50 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:50 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:56:55 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:56:56 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:56:56 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:56:56 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:56:56 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:01 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:03 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:03 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:03 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:03 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:08 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:09 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:09 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:09 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:09 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:14 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:16 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:16 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:16 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:16 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:21 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:23 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:23 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:23 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:23 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:28 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:29 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:29 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:29 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:29 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:34 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:35 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:35 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:35 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:35 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:40 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:42 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:42 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:42 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:42 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:47 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:49 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:49 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:49 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:49 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:57:54 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:57:55 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:57:55 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:57:55 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:57:55 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:00 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:01 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:01 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:01 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:01 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:06 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:08 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:08 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:08 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:08 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:13 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:14 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:14 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:14 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:14 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:19 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:21 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:21 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:21 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:21 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:26 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:28 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:28 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:28 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:28 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:33 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:34 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:34 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:34 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:34 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:39 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:41 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:41 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:41 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:41 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:46 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:47 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:47 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:47 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:47 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:52 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:58:53 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:58:53 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:58:53 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:58:53 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:58:58 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:00 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:00 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:00 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:00 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:05 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:06 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:06 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:06 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:06 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:11 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:13 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:13 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:13 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:13 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:18 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:19 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:19 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:19 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:19 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:24 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:25 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:25 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:25 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:25 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:30 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:32 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:32 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:32 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:32 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:37 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:38 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:38 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:38 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:38 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:43 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:45 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:45 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:45 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:45 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:50 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:51 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:51 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:51 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:51 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 11:59:56 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 11:59:58 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 11:59:58 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 11:59:58 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 11:59:58 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:03 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:04 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:04 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:04 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:04 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:09 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:11 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:11 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:11 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:11 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:16 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:17 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:17 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:17 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:17 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:22 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:23 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:23 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:23 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:23 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:28 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:30 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:30 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:30 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:30 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:35 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:37 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:37 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:37 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:37 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:42 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:43 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:43 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:43 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:43 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:48 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:49 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:49 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:49 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:49 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:00:54 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:00:56 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:00:56 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:00:56 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:00:56 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:01 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:02 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:02 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:02 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:02 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:07 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:09 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:09 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:09 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:09 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:14 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:15 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:15 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:15 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:15 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:20 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:22 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:22 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:22 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:22 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:27 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:28 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:28 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:28 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:28 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:33 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:34 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:34 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:34 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:34 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:39 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:41 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:41 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:41 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:41 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:46 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:47 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:47 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:47 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:47 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:52 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:01:53 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:01:53 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:01:53 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:01:53 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:01:58 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:00 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:00 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:00 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:00 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:05 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:06 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:06 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:06 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:06 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:11 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:13 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:13 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:13 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:13 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:18 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:19 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:19 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:19 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:19 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:24 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:26 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:26 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:26 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:26 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:31 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:32 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:32 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:32 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:32 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:37 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:38 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:38 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:38 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:38 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:43 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:45 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:45 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:45 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:45 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:50 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:51 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:51 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:51 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:51 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:02:56 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:02:58 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:02:58 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:02:58 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:02:58 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:03 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:04 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:04 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:04 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:04 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:09 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:11 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:11 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:11 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:11 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:16 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:17 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:17 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:17 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:17 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:22 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:24 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:24 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:24 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:24 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:29 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:30 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:30 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:30 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:30 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:35 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:36 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:36 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:36 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:36 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:41 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:43 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:43 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:43 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:43 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:48 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:49 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:49 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:49 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:49 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:03:54 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:03:55 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:03:55 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:03:55 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:03:55 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:00 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:02 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:02 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:02 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:02 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:07 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:08 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:08 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:08 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:08 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:13 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:14 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:14 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:14 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:14 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:19 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:21 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:21 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:21 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:21 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:26 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:27 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:27 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:27 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:27 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:32 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:33 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:33 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:33 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:33 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:38 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:39 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:39 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:39 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:39 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:44 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:45 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:45 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:45 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:45 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:50 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:51 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:51 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:51 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:51 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:04:56 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:04:57 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:04:57 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:04:57 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:04:57 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:02 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:03 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:03 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:03 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:03 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:08 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:10 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:10 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:10 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:10 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:15 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:16 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:16 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:16 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:16 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:21 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:22 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:22 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:22 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:22 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:27 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:28 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:28 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:28 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:28 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:33 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:34 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:34 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:34 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:34 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:39 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:40 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:40 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:40 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:40 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:45 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:46 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:46 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:46 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:46 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:51 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:52 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:52 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:52 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:52 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:05:57 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:05:58 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:05:58 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:05:58 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:05:58 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:03 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:04 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:04 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:04 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:04 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:09 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:11 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:11 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:11 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:11 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:16 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:17 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:17 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:17 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:17 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:22 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:23 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:23 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:23 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:23 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:28 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:29 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:29 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:29 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:29 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:34 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:35 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:35 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:35 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:35 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:40 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:41 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:41 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:41 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:41 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:46 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:48 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:48 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:48 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:48 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:53 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:06:54 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:06:54 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:06:54 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:06:54 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:06:59 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:00 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:00 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:00 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:00 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:05 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:06 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:06 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:06 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:06 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:11 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:12 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:12 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:12 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:12 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:17 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:18 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:18 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:18 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:18 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:23 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:24 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:24 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:24 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:24 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:29 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:31 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:31 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:31 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:31 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:36 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:37 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:37 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:37 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:37 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:42 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:43 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:43 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:43 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:43 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:48 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:49 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:49 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:49 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:49 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:07:54 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:07:55 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:07:55 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:07:55 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:07:55 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:00 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:01 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:01 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:01 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:01 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:06 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:08 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:08 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:08 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:08 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:13 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:14 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:14 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:14 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:14 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:19 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:20 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:20 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:20 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:20 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:25 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:26 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:26 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:26 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:26 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:31 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:32 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:32 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:32 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:32 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:37 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:38 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:38 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:38 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:38 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:43 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:44 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:44 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:44 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:44 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:49 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:50 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:50 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:50 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:50 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:08:55 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:08:56 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:08:56 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:08:56 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:08:56 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:01 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:03 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:03 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:03 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:03 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:08 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:09 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:09 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:09 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:09 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:14 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:15 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:15 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:15 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:15 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:20 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:21 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:21 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:21 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:21 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:26 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:27 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:27 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:27 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:27 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:32 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:33 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:33 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:33 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:33 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:38 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:39 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:39 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:39 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:39 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:44 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:45 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:45 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:45 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:45 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:50 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:52 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:52 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:52 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:52 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:09:57 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:09:58 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:09:58 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:09:58 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:09:58 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:03 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:04 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:04 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:04 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:04 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:09 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:10 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:10 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:10 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:10 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:15 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:16 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:16 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:16 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:16 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:21 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:22 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:22 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:22 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:22 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:27 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:29 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:29 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:29 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:29 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:34 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:35 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:35 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:35 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:35 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:40 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:41 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:41 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:41 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:41 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:46 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:47 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:47 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:47 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:47 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:52 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:53 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:53 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:53 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:53 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:10:58 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:10:59 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:10:59 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:10:59 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:10:59 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:04 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:05 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:05 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:05 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:05 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:10 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:12 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:12 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:12 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:12 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:17 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:18 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:18 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:18 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:18 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:23 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:24 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:24 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:24 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:24 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:29 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:30 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:30 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:30 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:30 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:35 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:36 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:36 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:36 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:36 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:41 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:42 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:42 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:42 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:42 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:47 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:49 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:49 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:49 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:49 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:11:54 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:11:55 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:11:55 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:11:55 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:11:55 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:00 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:01 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:01 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:01 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:01 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:06 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:07 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:07 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:07 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:07 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:12 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:13 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:13 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:13 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:13 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:18 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:20 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:20 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:20 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:20 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:25 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:26 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:26 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:26 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:26 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:31 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:32 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:32 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:32 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:32 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:37 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:38 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:38 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:38 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:38 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:43 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:44 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:44 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:44 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:44 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:49 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:50 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:50 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:50 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:50 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:12:55 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:12:57 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:12:57 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:12:57 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:12:57 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:02 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:03 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:03 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:03 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:03 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:08 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:09 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:09 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:09 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:09 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:14 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:15 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:15 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:15 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:15 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:20 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:21 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:21 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:21 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:21 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:26 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:27 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:27 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:27 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:27 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:32 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:34 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:34 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:34 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:34 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:39 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:40 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:40 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:40 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:40 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:45 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:46 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:46 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:46 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:46 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:51 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:52 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:52 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:52 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:52 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:13:57 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:13:58 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:13:58 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:13:58 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:13:58 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:03 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:04 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:04 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:05 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:05 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:10 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:11 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:11 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:11 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:11 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:16 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:17 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:17 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:17 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:17 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:22 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:23 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:23 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:23 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:23 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:28 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:29 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:29 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:29 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:29 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:34 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:36 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:36 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:36 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:36 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:41 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:42 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:42 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:42 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:42 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:47 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:48 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:48 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:48 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:48 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:53 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:14:54 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:14:54 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:14:54 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:14:54 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:14:59 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:15:00 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:15:00 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:15:00 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:15:00 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:15:05 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:15:06 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:15:06 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:15:06 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:15:06 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:15:11 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:15:34 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:15:34 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:15:34 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:15:34 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:15:39 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:15:40 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:15:40 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:15:40 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:15:40 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:15:45 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:15:46 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:15:46 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:15:46 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:15:46 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:15:51 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:15:53 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:15:53 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:15:53 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:15:53 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:15:58 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:15:59 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:15:59 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:15:59 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:15:59 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:04 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:05 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:05 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:05 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:05 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:10 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:11 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:11 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:11 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:11 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:16 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:17 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:17 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:17 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:17 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:22 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:23 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:23 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:23 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:23 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:28 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:29 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:29 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:29 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:29 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:34 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:35 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:35 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:35 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:35 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:40 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:41 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:41 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:41 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:41 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:46 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:47 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:47 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:47 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:47 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:52 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:53 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:53 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:53 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:53 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:16:58 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:16:59 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:16:59 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:16:59 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:16:59 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:17:04 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:17:06 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:17:06 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:17:06 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:17:06 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:17:11 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:17:12 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:17:12 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:17:12 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:17:12 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:17:17 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:17:18 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:17:18 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:17:18 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:17:18 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:17:23 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:17:24 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:17:24 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:17:24 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:17:24 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:17:29 INFO  TestDriver:1011 - Appium Server Stopped
+2021-06-04 12:17:30 ERROR TestDriver:710 - Any of the below issue may stop your App to Launch...
+2021-06-04 12:17:30 ERROR TestDriver:711 - Case 1: CSM Device offline.
+2021-06-04 12:17:30 ERROR TestDriver:712 - Case 2: Current APK maynot support your current Flash Build.
+2021-06-04 12:17:30 ERROR TestDriver:713 - Case 3: In your previous action, Appium server process not terminated fully / Android Driver not terminated properly.
+2021-06-04 12:17:35 INFO  TestDriver:1011 - Appium Server Stopped

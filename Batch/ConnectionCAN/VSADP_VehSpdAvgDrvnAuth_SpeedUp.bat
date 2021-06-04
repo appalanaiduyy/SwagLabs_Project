@@ -1,0 +1,3 @@
+cd Batch/ConnectionCAN/
+Python VSADP_VehSpdAvgDrvnAuth_SpeedUp.py
+exit

@@ -1,0 +1,290 @@
+2021-03-04 15:43:21 INFO  TestDriver:183 - CSMAppsAutomation Frame work version 0.0.1
+2021-03-04 15:43:21 INFO  TestDriver:135 - Properties loaded. Starting testing
+2021-03-04 15:43:21 INFO  TestDriver:185 - Intialize Suite xlsx
+2021-03-04 15:43:23 ERROR TestDriver:997 - Appium server not srated or Not properly terminated...
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_293
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_293
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_293 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_010
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_010
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_010 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_011
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_011
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_011 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_012
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_012
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_012 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_013
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_013
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_013 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_018
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_018
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_018 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_020
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_020
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_020 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_021
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_021
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_021 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_022
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_022
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_022 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_023
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_023
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_023 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_024
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_024
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_024 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_025
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_025
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_025 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_027
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_027
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_027 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_028
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_028
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_028 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_031
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_031
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_031 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_033
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_033
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_033 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_034
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_034
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_034 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_035
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_035
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_035 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_036
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_036
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_036 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_037
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_037
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_037 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_038
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_038
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_038 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_039
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_039
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_039 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_040
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_040
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_040 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_041
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_041
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_041 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_042
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_042
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_042 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_043
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_043
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_043 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_044
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_044
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_044 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_045
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_045
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_045 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_046
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_046
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_046 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_047
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_047
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_047 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_048
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_048
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_048 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_049
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_049
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_049 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_050
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_050
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_050 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_051
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_051
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_051 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_052
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_052
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_052 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_053
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_053
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_053 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_054
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_054
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_054 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_055
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_055
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_055 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_056
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_056
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_056 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_057
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_057
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_057 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_058
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_058
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_058 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_059
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_059
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_059 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_060
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_060
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_060 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_062
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_062
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_062 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_063
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_063
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_063 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_064
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_064
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_064 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_069
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_069
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_069 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_070
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_070
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_070 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_071
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_071
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_071 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_072
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_072
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_072 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_073
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_073
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_073 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_075
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_075
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_075 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_084
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_084
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_084 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_086
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_086
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_086 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_099
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_099
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_099 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_101
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_101
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_101 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_103
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_103
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_103 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_104
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_104
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_104 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_106
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_106
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_106 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_110
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_110
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_110 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_117
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_117
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_117 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_122
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_122
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_122 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_127
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_127
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_127 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_128
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_128
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_128 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_129
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_129
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_129 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_130
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_130
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_130 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_131
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_131
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_131 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_134
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_134
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_134 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_135
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_135
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_135 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_136
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_136
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_136 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_138
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_138
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_138 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_139
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_139
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_139 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_140
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_140
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_140 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_141
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_141
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_141 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_142
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_142
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_142 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_143
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_143
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_143 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_144
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_144
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_144 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_147
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_147
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_147 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_149
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_149
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_149 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_150
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_150
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_150 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_151
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_151
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_151 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_152
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_152
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_152 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_153
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_153
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_153 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_155
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_155
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_155 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_156
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_156
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_156 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_157
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_157
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_157 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_158
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_158
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_158 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_159
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_159
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_159 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_160
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_160
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_160 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_162
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_162
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_162 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_163
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_163
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_163 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_164
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_164
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_164 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_165
+2021-03-04 15:43:24 INFO  TestDriver:457 - Skipping the test Connections_165
+2021-03-04 15:43:24 INFO  TestDriver:466 - ***********************************Connections_165 --- Skip
+2021-03-04 15:43:24 INFO  TestDriver:387 - THE CURRENT TESTCASE NAME IS : Connections_166
+2021-03-04 15:43:24 INFO  TestDriver:401 - Executing the test case -> Connections_166
+2021-03-04 15:43:24 INFO  TestDriver:530 - openConnectionsScreens
+2021-03-04 15:43:24 INFO  TestDriver:535 - /******************************************
+2021-03-04 15:43:24 INFO  TestDriver:536 - /*****Keyword:openConnectionsScreens(Open Wifi Hotspot Screen from AOSP Settings Application)*****
+2021-03-04 15:43:24 INFO  TestDriver:538 - /***** DATA : Value::()*****
+2021-03-04 15:43:24 INFO  TestDriver:540 - /******************************************

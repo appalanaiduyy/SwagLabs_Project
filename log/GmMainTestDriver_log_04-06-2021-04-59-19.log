@@ -1,0 +1,632 @@
+2021-06-04 16:59:19 INFO  TestDriver:183 - CSMAppsAutomation Frame work version 0.0.1
+2021-06-04 16:59:19 INFO  TestDriver:135 - Properties loaded. Starting testing
+2021-06-04 16:59:19 INFO  TestDriver:185 - Intialize Suite xlsx
+2021-06-04 16:59:29 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_001
+2021-06-04 16:59:29 INFO  TestDriver:405 - Executing the test case -> SwagLabs_001
+2021-06-04 16:59:29 INFO  TestDriver:534 - openApp
+2021-06-04 16:59:29 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:29 INFO  TestDriver:540 - /*****Keyword:openApp(Open Swag Labs App)*****
+2021-06-04 16:59:29 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:29 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:30 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:30 INFO  TestDriver:534 - wait
+2021-06-04 16:59:30 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:30 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 16:59:30 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 16:59:30 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:34 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:34 INFO  TestDriver:534 - waitForElement
+2021-06-04 16:59:34 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:34 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Username field availability)*****
+2021-06-04 16:59:34 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:34 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:35 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:35 INFO  TestDriver:534 - clickElement
+2021-06-04 16:59:35 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:35 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Username field)*****
+2021-06-04 16:59:35 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:35 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:35 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 16:59:35 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:35 INFO  TestDriver:534 - inputData
+2021-06-04 16:59:35 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:35 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the UserName in Username field)*****
+2021-06-04 16:59:35 INFO  TestDriver:542 - /***** DATA :standard_user,enter Value::(standard_user,enter)*****
+2021-06-04 16:59:35 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:38 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:38 INFO  TestDriver:534 - waitForElement
+2021-06-04 16:59:38 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:38 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Password field availability)*****
+2021-06-04 16:59:38 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:38 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:38 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:38 INFO  TestDriver:534 - clickElement
+2021-06-04 16:59:38 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:38 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Password field)*****
+2021-06-04 16:59:38 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:38 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:39 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 16:59:39 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:39 INFO  TestDriver:534 - inputData
+2021-06-04 16:59:39 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:39 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the Password in Password field)*****
+2021-06-04 16:59:39 INFO  TestDriver:542 - /***** DATA :secret_sauce,enter Value::(secret_sauce,enter)*****
+2021-06-04 16:59:39 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:42 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:42 INFO  TestDriver:534 - waitForElement
+2021-06-04 16:59:42 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:42 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify LOGIN button availability)*****
+2021-06-04 16:59:42 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:42 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:43 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:43 INFO  TestDriver:534 - clickElement
+2021-06-04 16:59:43 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:43 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on LOGIN button)*****
+2021-06-04 16:59:43 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:43 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:44 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 16:59:44 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:44 INFO  TestDriver:534 - waitForElement
+2021-06-04 16:59:44 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:44 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the title of the screen)*****
+2021-06-04 16:59:44 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:44 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:45 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:45 INFO  TestDriver:534 - wait
+2021-06-04 16:59:45 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:45 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 16:59:45 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 16:59:45 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:49 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:49 INFO  TestDriver:534 - closeApp
+2021-06-04 16:59:49 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:49 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the App)*****
+2021-06-04 16:59:49 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:49 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:49 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:49 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_002
+2021-06-04 16:59:49 INFO  TestDriver:405 - Executing the test case -> SwagLabs_002
+2021-06-04 16:59:49 INFO  TestDriver:534 - openApp
+2021-06-04 16:59:49 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:49 INFO  TestDriver:540 - /*****Keyword:openApp(Open Swag Labs App)*****
+2021-06-04 16:59:49 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:49 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:50 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:50 INFO  TestDriver:534 - wait
+2021-06-04 16:59:50 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:50 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 16:59:50 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 16:59:50 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:54 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:54 INFO  TestDriver:534 - waitForElement
+2021-06-04 16:59:54 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:54 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Username field availability)*****
+2021-06-04 16:59:54 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:54 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:54 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:54 INFO  TestDriver:534 - clickElement
+2021-06-04 16:59:54 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:54 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Username field)*****
+2021-06-04 16:59:54 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:54 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:56 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 16:59:56 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:56 INFO  TestDriver:534 - inputData
+2021-06-04 16:59:56 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:56 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the UserName in Username field)*****
+2021-06-04 16:59:56 INFO  TestDriver:542 - /***** DATA :standard_user,enter Value::(standard_user,enter)*****
+2021-06-04 16:59:56 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:57 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:57 INFO  TestDriver:534 - waitForElement
+2021-06-04 16:59:57 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:57 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Password field availability)*****
+2021-06-04 16:59:57 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:57 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:58 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:58 INFO  TestDriver:534 - clickElement
+2021-06-04 16:59:58 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:58 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Password field)*****
+2021-06-04 16:59:58 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 16:59:58 INFO  TestDriver:544 - /******************************************
+2021-06-04 16:59:59 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 16:59:59 INFO  TestDriver:566 - Pass
+2021-06-04 16:59:59 INFO  TestDriver:534 - inputData
+2021-06-04 16:59:59 INFO  TestDriver:539 - /******************************************
+2021-06-04 16:59:59 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the Password in Password field)*****
+2021-06-04 16:59:59 INFO  TestDriver:542 - /***** DATA :secret_sauce,enter Value::(secret_sauce,enter)*****
+2021-06-04 16:59:59 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:01 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:01 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:01 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:01 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify LOGIN button availability)*****
+2021-06-04 17:00:01 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:01 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:02 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:02 INFO  TestDriver:534 - clickElement
+2021-06-04 17:00:02 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:02 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on LOGIN button)*****
+2021-06-04 17:00:02 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:02 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:04 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:00:04 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:04 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:04 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:04 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the title of the screen)*****
+2021-06-04 17:00:04 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:04 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:04 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:04 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:00:04 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:04 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product1)*****
+2021-06-04 17:00:04 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:00:04 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:05 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:05 INFO  TestDriver:534 - wait
+2021-06-04 17:00:05 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:05 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:00:05 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:00:05 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:09 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:09 INFO  TestDriver:534 - closeApp
+2021-06-04 17:00:09 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:09 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the App)*****
+2021-06-04 17:00:09 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:09 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:10 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:10 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_003
+2021-06-04 17:00:10 INFO  TestDriver:405 - Executing the test case -> SwagLabs_003
+2021-06-04 17:00:10 INFO  TestDriver:534 - openApp
+2021-06-04 17:00:10 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:10 INFO  TestDriver:540 - /*****Keyword:openApp(Open Swag Labs App)*****
+2021-06-04 17:00:10 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:10 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:11 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:11 INFO  TestDriver:534 - wait
+2021-06-04 17:00:11 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:11 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:00:11 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:00:11 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:15 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:15 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:15 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:15 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Username field availability)*****
+2021-06-04 17:00:15 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:15 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:15 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:15 INFO  TestDriver:534 - clickElement
+2021-06-04 17:00:15 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:15 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Username field)*****
+2021-06-04 17:00:15 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:15 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:15 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:00:15 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:15 INFO  TestDriver:534 - inputData
+2021-06-04 17:00:15 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:15 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the UserName in Username field)*****
+2021-06-04 17:00:15 INFO  TestDriver:542 - /***** DATA :standard_user,enter Value::(standard_user,enter)*****
+2021-06-04 17:00:15 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:18 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:18 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:18 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:18 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Password field availability)*****
+2021-06-04 17:00:18 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:18 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:19 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:19 INFO  TestDriver:534 - clickElement
+2021-06-04 17:00:19 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:19 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Password field)*****
+2021-06-04 17:00:19 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:19 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:20 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:00:20 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:20 INFO  TestDriver:534 - inputData
+2021-06-04 17:00:20 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:20 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the Password in Password field)*****
+2021-06-04 17:00:20 INFO  TestDriver:542 - /***** DATA :secret_sauce,enter Value::(secret_sauce,enter)*****
+2021-06-04 17:00:20 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:22 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:22 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:22 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:22 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify LOGIN button availability)*****
+2021-06-04 17:00:22 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:22 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:23 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:23 INFO  TestDriver:534 - clickElement
+2021-06-04 17:00:23 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:23 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on LOGIN button)*****
+2021-06-04 17:00:23 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:23 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:24 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:00:24 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:24 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:24 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:24 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the title of the screen)*****
+2021-06-04 17:00:24 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:24 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:25 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:25 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:00:25 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:25 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product1)*****
+2021-06-04 17:00:25 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:00:25 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:26 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:26 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:00:26 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:26 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product2)*****
+2021-06-04 17:00:26 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:00:26 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:27 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:27 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:00:27 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:27 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product3)*****
+2021-06-04 17:00:27 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:00:27 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:31 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:31 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:31 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:31 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the available product count in a Cart)*****
+2021-06-04 17:00:31 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:31 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:32 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:32 INFO  TestDriver:534 - wait
+2021-06-04 17:00:32 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:32 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:00:32 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:00:32 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:36 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:36 INFO  TestDriver:534 - closeApp
+2021-06-04 17:00:36 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:36 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the App)*****
+2021-06-04 17:00:36 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:36 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:36 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:36 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_004
+2021-06-04 17:00:36 INFO  TestDriver:405 - Executing the test case -> SwagLabs_004
+2021-06-04 17:00:36 INFO  TestDriver:534 - openApp
+2021-06-04 17:00:36 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:36 INFO  TestDriver:540 - /*****Keyword:openApp(Open Swag Labs App)*****
+2021-06-04 17:00:36 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:36 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:37 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:37 INFO  TestDriver:534 - wait
+2021-06-04 17:00:37 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:37 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:00:37 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:00:37 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:41 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:41 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:41 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:41 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Username field availability)*****
+2021-06-04 17:00:41 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:41 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:41 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:41 INFO  TestDriver:534 - clickElement
+2021-06-04 17:00:41 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:41 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Username field)*****
+2021-06-04 17:00:41 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:41 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:41 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:00:41 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:41 INFO  TestDriver:534 - inputData
+2021-06-04 17:00:41 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:41 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the UserName in Username field)*****
+2021-06-04 17:00:41 INFO  TestDriver:542 - /***** DATA :standard_user,enter Value::(standard_user,enter)*****
+2021-06-04 17:00:41 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:45 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:45 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:45 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:45 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Password field availability)*****
+2021-06-04 17:00:45 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:45 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:45 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:45 INFO  TestDriver:534 - clickElement
+2021-06-04 17:00:45 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:45 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Password field)*****
+2021-06-04 17:00:45 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:45 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:46 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:00:46 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:46 INFO  TestDriver:534 - inputData
+2021-06-04 17:00:46 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:46 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the Password in Password field)*****
+2021-06-04 17:00:46 INFO  TestDriver:542 - /***** DATA :secret_sauce,enter Value::(secret_sauce,enter)*****
+2021-06-04 17:00:46 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:48 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:48 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:48 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:48 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify LOGIN button availability)*****
+2021-06-04 17:00:48 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:48 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:49 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:49 INFO  TestDriver:534 - clickElement
+2021-06-04 17:00:49 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:49 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on LOGIN button)*****
+2021-06-04 17:00:49 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:49 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:50 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:00:50 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:50 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:50 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:50 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the title of the screen)*****
+2021-06-04 17:00:50 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:50 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:51 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:51 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:00:51 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:51 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product1)*****
+2021-06-04 17:00:51 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:00:51 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:00:52 INFO  TestDriver:566 - Pass
+2021-06-04 17:00:52 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:00:52 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:00:52 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the available product count in a Cart)*****
+2021-06-04 17:00:52 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:00:52 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:32 INFO  TestDriver:566 - Fail
+2021-06-04 17:01:33 INFO  TestDriver:534 - wait
+2021-06-04 17:01:33 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:33 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:01:33 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:01:33 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:37 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:37 INFO  TestDriver:534 - closeApp
+2021-06-04 17:01:37 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:37 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the App)*****
+2021-06-04 17:01:37 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:37 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:38 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:38 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_005
+2021-06-04 17:01:38 INFO  TestDriver:405 - Executing the test case -> SwagLabs_005
+2021-06-04 17:01:38 INFO  TestDriver:534 - openApp
+2021-06-04 17:01:38 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:38 INFO  TestDriver:540 - /*****Keyword:openApp(Open Swag Labs App)*****
+2021-06-04 17:01:38 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:38 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:39 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:39 INFO  TestDriver:534 - wait
+2021-06-04 17:01:39 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:39 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:01:39 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:01:39 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:43 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:43 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:01:43 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:43 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Username field availability)*****
+2021-06-04 17:01:43 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:43 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:43 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:43 INFO  TestDriver:534 - clickElement
+2021-06-04 17:01:43 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:43 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Username field)*****
+2021-06-04 17:01:43 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:43 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:43 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:01:43 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:43 INFO  TestDriver:534 - inputData
+2021-06-04 17:01:43 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:43 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the UserName in Username field)*****
+2021-06-04 17:01:43 INFO  TestDriver:542 - /***** DATA :standard_user,enter Value::(standard_user,enter)*****
+2021-06-04 17:01:43 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:46 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:46 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:01:46 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:46 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Password field availability)*****
+2021-06-04 17:01:46 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:46 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:47 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:47 INFO  TestDriver:534 - clickElement
+2021-06-04 17:01:47 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:47 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Password field)*****
+2021-06-04 17:01:47 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:47 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:48 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:01:48 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:48 INFO  TestDriver:534 - inputData
+2021-06-04 17:01:48 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:48 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the Password in Password field)*****
+2021-06-04 17:01:48 INFO  TestDriver:542 - /***** DATA :secret_sauce,enter Value::(secret_sauce,enter)*****
+2021-06-04 17:01:48 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:50 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:50 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:01:50 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:50 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify LOGIN button availability)*****
+2021-06-04 17:01:50 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:50 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:51 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:51 INFO  TestDriver:534 - clickElement
+2021-06-04 17:01:51 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:51 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on LOGIN button)*****
+2021-06-04 17:01:51 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:51 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:52 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:01:52 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:52 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:01:52 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:52 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the title of the screen)*****
+2021-06-04 17:01:52 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:01:52 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:52 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:52 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:01:52 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:52 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product1)*****
+2021-06-04 17:01:52 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:01:52 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:53 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:53 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:01:53 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:53 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product2)*****
+2021-06-04 17:01:53 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:01:53 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:54 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:54 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:01:54 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:54 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product3)*****
+2021-06-04 17:01:54 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:01:54 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:01:59 INFO  TestDriver:566 - Pass
+2021-06-04 17:01:59 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:01:59 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:01:59 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product4)*****
+2021-06-04 17:01:59 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:01:59 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:00 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:00 INFO  TestDriver:534 - clickElement
+2021-06-04 17:02:00 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:00 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on ADD TO CART button)*****
+2021-06-04 17:02:00 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:00 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:00 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:02:00 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:00 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:02:00 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:00 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the title of the screen)*****
+2021-06-04 17:02:00 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:00 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:41 INFO  TestDriver:566 - Fail
+2021-06-04 17:02:41 INFO  TestDriver:534 - wait
+2021-06-04 17:02:41 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:41 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:02:41 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:02:41 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:45 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:45 INFO  TestDriver:534 - closeApp
+2021-06-04 17:02:45 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:45 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the App)*****
+2021-06-04 17:02:45 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:45 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:46 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:46 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_006
+2021-06-04 17:02:46 INFO  TestDriver:405 - Executing the test case -> SwagLabs_006
+2021-06-04 17:02:46 INFO  TestDriver:534 - openApp
+2021-06-04 17:02:46 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:46 INFO  TestDriver:540 - /*****Keyword:openApp(Open Swag Labs App)*****
+2021-06-04 17:02:46 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:46 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:47 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:47 INFO  TestDriver:534 - wait
+2021-06-04 17:02:47 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:47 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:02:47 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:02:47 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:51 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:51 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:02:51 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:51 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Username field availability)*****
+2021-06-04 17:02:51 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:51 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:51 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:51 INFO  TestDriver:534 - clickElement
+2021-06-04 17:02:51 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:51 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Username field)*****
+2021-06-04 17:02:51 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:51 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:51 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:02:51 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:51 INFO  TestDriver:534 - inputData
+2021-06-04 17:02:51 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:51 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the UserName in Username field)*****
+2021-06-04 17:02:51 INFO  TestDriver:542 - /***** DATA :standard_user,enter Value::(standard_user,enter)*****
+2021-06-04 17:02:51 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:54 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:54 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:02:54 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:54 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify Password field availability)*****
+2021-06-04 17:02:54 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:54 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:55 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:55 INFO  TestDriver:534 - clickElement
+2021-06-04 17:02:55 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:55 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on Password field)*****
+2021-06-04 17:02:55 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:55 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:56 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:02:56 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:56 INFO  TestDriver:534 - inputData
+2021-06-04 17:02:56 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:56 INFO  TestDriver:540 - /*****Keyword:inputData(Enter the Password in Password field)*****
+2021-06-04 17:02:56 INFO  TestDriver:542 - /***** DATA :secret_sauce,enter Value::(secret_sauce,enter)*****
+2021-06-04 17:02:56 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:58 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:58 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:02:58 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:58 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify LOGIN button availability)*****
+2021-06-04 17:02:58 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:58 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:02:58 INFO  TestDriver:566 - Pass
+2021-06-04 17:02:58 INFO  TestDriver:534 - clickElement
+2021-06-04 17:02:58 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:02:58 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on LOGIN button)*****
+2021-06-04 17:02:58 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:02:58 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:00 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:03:00 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:00 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:03:00 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:00 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the title of the screen)*****
+2021-06-04 17:03:00 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:03:00 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:00 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:00 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:03:00 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:00 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product1)*****
+2021-06-04 17:03:00 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:03:00 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:01 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:01 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:03:01 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:01 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product2)*****
+2021-06-04 17:03:01 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:03:01 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:02 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:02 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:03:02 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:02 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product3)*****
+2021-06-04 17:03:02 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:03:02 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:07 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:07 INFO  TestDriver:534 - clickByScroll
+2021-06-04 17:03:07 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:07 INFO  TestDriver:540 - /*****Keyword:clickByScroll(Click on ADD TO CART button for Product4)*****
+2021-06-04 17:03:07 INFO  TestDriver:542 - /***** DATA :ADD TO CART Value::(ADD TO CART)*****
+2021-06-04 17:03:07 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:08 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:08 INFO  TestDriver:534 - clickElement
+2021-06-04 17:03:08 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:08 INFO  TestDriver:540 - /*****Keyword:clickElement(Click on ADD TO CART button)*****
+2021-06-04 17:03:08 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:03:08 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:08 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:03:08 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:08 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:03:08 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:08 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the title of the screen)*****
+2021-06-04 17:03:08 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:03:08 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:09 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:09 INFO  TestDriver:534 - clickElement
+2021-06-04 17:03:09 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:09 INFO  TestDriver:540 - /*****Keyword:clickElement(Remove the 1 product)*****
+2021-06-04 17:03:09 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:03:09 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:10 INFO  TestDriver:186 - Test Step  passed
+2021-06-04 17:03:10 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:10 INFO  TestDriver:534 - waitForElement
+2021-06-04 17:03:10 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:10 INFO  TestDriver:540 - /*****Keyword:waitForElement(Verify the available product count in a Cart)*****
+2021-06-04 17:03:10 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:03:10 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:11 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:11 INFO  TestDriver:534 - wait
+2021-06-04 17:03:11 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:11 INFO  TestDriver:540 - /*****Keyword:wait(wait for some time)*****
+2021-06-04 17:03:11 INFO  TestDriver:542 - /***** DATA :4000 Value::(4000)*****
+2021-06-04 17:03:11 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:15 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:15 INFO  TestDriver:534 - closeApp
+2021-06-04 17:03:15 INFO  TestDriver:539 - /******************************************
+2021-06-04 17:03:15 INFO  TestDriver:540 - /*****Keyword:closeApp(Close the App)*****
+2021-06-04 17:03:15 INFO  TestDriver:542 - /***** DATA : Value::()*****
+2021-06-04 17:03:15 INFO  TestDriver:544 - /******************************************
+2021-06-04 17:03:15 INFO  TestDriver:566 - Pass
+2021-06-04 17:03:15 INFO  TestDriver:391 - THE CURRENT TESTCASE NAME IS : SwagLabs_007
+2021-06-04 17:03:15 INFO  TestDriver:405 - Executing the test case -> SwagLabs_007
